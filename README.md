@@ -73,16 +73,22 @@ Each directory include an algorithm with a mini project using this algorithm(dat
 A lot of algorithm are coming soon, include:
 
 [x] SVM
+
 [x] Adaboost
+
 []  Regression and Tree Regression
+
 []  Kmeans
+
 []  EM
+
 []  PCA
+
 []  SVD
 
 ## Special Thanks
 
-    This repo has reference some content and dataset of the book: <hrep a="https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?ie=UTF8&qid=1508746100&sr=8-1&keywords=Machine+Learning+in+Action"> Machine Learning in Action</hrep>, Thanks a lot for this great handbook.
+This repo has reference some content and dataset of the book: <hrep a="https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?ie=UTF8&qid=1508746100&sr=8-1&keywords=Machine+Learning+in+Action"> Machine Learning in Action</hrep>, Thanks a lot for this great handbook.
     
 ## Contact Me
 
