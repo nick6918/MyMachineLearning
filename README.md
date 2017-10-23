@@ -88,8 +88,14 @@ A lot of algorithm are coming soon, include:
 
 ## Special Thanks
 
-This repo has reference some content and dataset of the book: <hrep a="https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?ie=UTF8&qid=1508746100&sr=8-1&keywords=Machine+Learning+in+Action"> Machine Learning in Action</hrep>, Thanks a lot for this great handbook.
+This repo has referenced some content and dataset of the book Machine Learning in Action(https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_1?ie=UTF8&qid=1508746100&sr=8-1&keywords=Machine+Learning+in+Action), Thanks a lot for this great handbook.
     
+This repo also referenced from stanford CS229 Machine Learningcourse, Link: 
+
+http://cs229.stanford.edu/
+
+Thanks a lot for the great materialis.
+
 ## Contact Me
 
 Email: nick_fandingwei@outlook.com
